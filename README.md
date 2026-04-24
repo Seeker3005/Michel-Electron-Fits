@@ -21,7 +21,7 @@ to find a local maximum succeeding the first one. Define a function based on the
 Once you find your parameters, plot them using matplotlib. You will need to create a for loop statement to find t_0 and when the second peak begins to rise to calculate the number of PEs. After finding these values,
 you will integrate with 20 and 45 bins to find the range of PEs present in the spectrum. The integration is done by summing the difference between the measured pulse and the sum of the singlet and triplet times across
 all bins. 
-Note: most of this was done with brute force. 
+Note: Most of this was done with brute force, and the data used to produce the outputs is not included. 
 
 
 
